@@ -21,7 +21,7 @@
     ]
   },
   {
-    "label": "What is a Joey's Special",
+    "label": "What is a Joey's Special?",
     "choices": [
       {
         "value": "Two Pizzas",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "label": "What is the name of Ross and Carol's son",
+    "label": "What is the name of Ross and Carol's son?",
     "choices": [
       {
         "value": "Marlin",
@@ -63,7 +63,7 @@
     ]
   },
   {
-    "label": "What is the name of Phoebe's birth Mum",
+    "label": "What is the name of Phoebe's birth Mum?",
     "choices": [
       {
         "value": "Denise",
@@ -105,7 +105,7 @@
     ]
   },
   {
-    "label": "What is the name of the diner where Monica works in season 2",
+    "label": "What is the name of the diner where Monica works in season 2?",
     "choices": [
       {
         "value": "Broadway Diner",
