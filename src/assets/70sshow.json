@@ -1,0 +1,128 @@
+[
+  {
+    "label": "What is Hyde's dad called?",
+    "choices": [
+      {
+        "value": "Leo",
+        "correct": false
+      },
+      {
+        "value": "Red Forman",
+        "correct": false
+      },
+      {
+        "value": "William Barnett",
+        "correct": true
+      },
+      {
+        "value": "Bob Pinciotti",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "Who else auditioned for the role of Michael Kelso?",
+    "choices": [
+      {
+        "value": "Topher Grace",
+        "correct": false
+      },
+      {
+        "value": "James Franco",
+        "correct": true
+      },
+      {
+        "value": "Robert Pattinson",
+        "correct": false
+      },
+      {
+        "value": "Nicholas Hoult",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "How old was Mila Kunis when she landed the role of Jackie?",
+    "choices": [
+      {
+        "value": "15",
+        "correct": false
+      },
+      {
+        "value": "16",
+        "correct": false
+      },
+      {
+        "value": "18",
+        "correct": false
+      },
+      {
+        "value": "14",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "label": "What is Kitty's maiden name?",
+    "choices": [
+      {
+        "value": "Sigurdson",
+        "correct": true
+      },
+      {
+        "value": "Snyder",
+        "correct": false
+      },
+      {
+        "value": "Sullivan",
+        "correct": false
+      },
+      {
+        "value": "Simmons",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "How many times does Kelso fall off the water tower during the show?",
+    "choices": [
+      {
+        "value": "1",
+        "correct": false
+      },
+      {
+        "value": "8",
+        "correct": false
+      },
+      {
+        "value": "5",
+        "correct": true
+      },
+      {
+        "value": "3",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "Who was originally supposed to be the obsessive Star Wars Fan?",
+    "choices": [
+      {
+        "value": "Donna",
+        "correct": false
+      },
+      {
+        "value": "Fez",
+        "correct": false
+      },
+      {
+        "value": "Hyde",
+        "correct": false
+      },
+      {
+        "value": "Kelso",
+        "correct": true
+      }
+    ]
+  }
+]
