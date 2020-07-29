@@ -1,0 +1,20 @@
+[
+  {
+    "label": "Friends",
+    "name": "friends",
+    "description": "Questions about 'Friends!'",
+    "fileName": "friends.json"
+  },
+  {
+    "label": "That 70s Show",
+    "name": "70sshow",
+    "description": "Questions about 'That 70's Show!'",
+    "fileName": "70sshow.json"
+  },
+  {
+    "label": "Scrubs",
+    "name": "scrubs",
+    "description": "Questions about 'Scrubs!'",
+    "fileName": "scrubs.json"
+  }
+]
