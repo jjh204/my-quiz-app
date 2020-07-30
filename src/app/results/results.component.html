@@ -1,5 +1,8 @@
 <div class="results">
-  <h1>See your Results:</h1>
+  <mat-card class="results-title">
+    <mat-card-title>Results!</mat-card-title>
+    <mat-card-content>Check your answers below:</mat-card-content>
+  </mat-card>
   <div class="answer" *ngFor="let a of answers.values" [ngClass]="{correct: a.correct}">
     {{a.value}}
   </div>

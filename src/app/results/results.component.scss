@@ -1,13 +1,15 @@
-h1 {
-  margin-bottom: 2em;
-  color: #033a53;
-  text-decoration: underline;
+.results-title {
+  font-family: 'Rowdies', cursive;
+  background: #033a53;
+  color: #FBE9E7;
+  max-width: 50em;
+  margin: 0 auto;
 }
 
 .answer{
   font-size: 18px;
   color: #c71414;
-  margin: 1em;
+  margin: 3em 1em;
 }
 
 .correct{
