@@ -1,1 +1,74 @@
 /* You can add global styles to this file, and also import other style files */
+
+body { 
+  background: #D4D0CB; 
+  text-align: center;
+}
+
+.title-logo {
+  font-family: 'Rowdies', cursive;
+  color: #FBE9E7;
+  font-size: 32px;
+  padding-top: 0.3em;
+  padding-left: 0.3em;
+}
+
+.page-header {
+  background: #033a53;
+  display: flex;
+  width: 100%;
+  position: fixed;
+  right: 0;
+  left: 0;
+  top: 0;
+  z-index: 9999;
+}
+
+.page-header_item {
+  flex: 0 1 200px;
+}
+
+.page-header_item:last-child {
+  flex-grow: 2;
+  text-align: center;
+}
+
+.navigation-list {
+  list-style-type: none;
+}
+
+.navigation-list li {
+  font-size: 16px;
+  display: inline-block;
+  margin-right: 70px;
+}
+
+.navigation-list_item--active {
+  text-decoration: none;
+}
+
+a {
+  color: #FBE9E7;
+  cursor: pointer;
+}
+
+a:hover,
+a:focus {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+  opacity: 0.8;
+}
+
+@media all and (max-width: 750px) {
+
+  .navigation-list li {
+  display: block;
+  font-size: 14px;
+  text-align: right;
+  margin: 0.6em;
+}
+
+}
