@@ -1,10 +1,17 @@
-<div class="welcome">
-  <h1>Welcome to QuizTime!</h1>
-  <div *ngFor="let q of quiz">
-    <div>{{q.label}}</div>
-    <div>{{q.descritpion}}</div>
-    <button class="quiz-button">
-      <a routerLink="/{{q.name}}">Select Quiz</a>
-    </button>
+<div class="home-page">
+  <mat-card class="welcome">
+    <mat-card-title class="title">Welcome!</mat-card-title>
+    <mat-card-content>Test your knowledge on some of your favorite TV shows.</mat-card-content>
+  </mat-card>
+  <div *ngFor="let q of quiz" class="quiz-card">
+    <mat-card class="quizzes">
+      <mat-card-title>{{q.label}}</mat-card-title>
+      <mat-card-content>{{q.description}}</mat-card-content>
+      <mat-card-actions>
+        <button mat-raised-button class="btn btn-primary">
+          <a routerLink="/{{q.name}}" class="btn btn-primary">Start Quiz</a>
+        </button>
+      </mat-card-actions>
+    </mat-card>
   </div>
 </div>

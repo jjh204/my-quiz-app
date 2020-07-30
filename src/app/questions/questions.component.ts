@@ -17,8 +17,7 @@ export class QuestionsComponent implements OnInit {
   answers: Answers;
   questions: Question[];
   currentQuestionIndex: number;
-
-  private showResults = false;
+  showResults = false;
 
   // injecting the active route and the questions service below
   constructor(private route: ActivatedRoute, private questionsService: QuestionsService) { }
