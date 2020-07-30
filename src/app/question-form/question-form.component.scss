@@ -1,0 +1,21 @@
+h1 {
+  margin-bottom: 2em;
+  color: #033a53;
+}
+
+p {
+  color: #033a53;
+}
+
+.answer-choice {
+  display: inline-block; 
+  margin: 4em;
+}
+
+@media all and (max-width: 800px) {
+
+  .answer-choice {
+    display: block;
+    margin: 3em;
+  }
+}
