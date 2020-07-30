@@ -1,0 +1,128 @@
+[
+  {
+    "label": "What is Stewies Teddy Bear called?",
+    "choices": [
+      {
+        "value": "Rodger",
+        "correct": false
+      },
+      {
+        "value": "Rupert",
+        "correct": true
+      },
+      {
+        "value": "Rudolph",
+        "correct": false
+      },
+      {
+        "value": "Robin",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What does Lisa Simpson give Meg after the Griffin's visit to Springfield?",
+    "choices": [
+      {
+        "value": "Her hairbrush",
+        "correct": false
+      },
+      {
+        "value": "Her saxophone",
+        "correct": true
+      },
+      {
+        "value": "The family cat",
+        "correct": false
+      },
+      {
+        "value": "A camera",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "Which character leaves in season 8 and returns in season 12?",
+    "choices": [
+      {
+        "value": "Kevin Swanson",
+        "correct": false
+      },
+      {
+        "value": "Diane Simmons",
+        "correct": false
+      },
+      {
+        "value": "Cleveland Brown",
+        "correct": true
+      },
+      {
+        "value": "Tom Tucker",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "Where was Peter actually born?",
+    "choices": [
+      {
+        "value": "Africa",
+        "correct": false
+      },
+      {
+        "value": "Brazil",
+        "correct": false
+      },
+      {
+        "value": "USA",
+        "correct": false
+      },
+      {
+        "value": "Mexico",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "label": "What USA state is Quahog in?",
+    "choices": [
+      {
+        "value": "New Hampshire",
+        "correct": false
+      },
+      {
+        "value": "Maine",
+        "correct": false
+      },
+      {
+        "value": "Rhode Island",
+        "correct": true
+      },
+      {
+        "value": "Massachusetts",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "In the 'Life of Brian' episode Brian is killed by a car. What is the name of the replacement dog the family gets?",
+    "choices": [
+      {
+        "value": "Vinny",
+        "correct": true
+      },
+      {
+        "value": "Tommy",
+        "correct": false
+      },
+      {
+        "value": "Sammy",
+        "correct": false
+      },
+      {
+        "value": "Johnny",
+        "correct": false
+      }
+    ]
+  }
+]

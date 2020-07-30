@@ -1,0 +1,38 @@
+[
+  {
+    "label": "Friends",
+    "name": "friends",
+    "description": "See how much you know about your favorite 'Friends!'",
+    "fileName": "friends.json"
+  },
+  {
+    "label": "That 70s Show",
+    "name": "70sshow",
+    "description": "Check out our old mates haning out in Red's basement with 'That 70's Show!'",
+    "fileName": "70sshow.json"
+  },
+  {
+    "label": "Scrubs",
+    "name": "scrubs",
+    "description": "Jump in and test your knowledge with JD and Turk from 'Scrubs!'",
+    "fileName": "scrubs.json"
+  },
+  {
+    "label": "How I Met Your Mother",
+    "name": "himym",
+    "description": "Ready for some 'Bro time'? Check out this 'How I Met Your Mother' quiz!",
+    "fileName": "himym.json"
+  },
+  {
+    "label": "Family Guy",
+    "name": "family",
+    "description": "America's favorite family man... how much do you know about the Griffins?'",
+    "fileName": "family.json"
+  },
+  {
+    "label": "Rick and Morty",
+    "name": "rickmorty",
+    "description": "Drunken adventures across the universe, check out this comedy show quiz!'",
+    "fileName": "rickmorty.json"
+  }
+]
