@@ -1,0 +1,128 @@
+[
+  {
+    "label": "What did Ted steal from the Restaurant on his first date with Robin?",
+    "choices": [
+      {
+        "value": "Blue French Horn",
+        "correct": true
+      },
+      {
+        "value": "Blue Harp",
+        "correct": false
+      },
+      {
+        "value": "Blue Clarinet",
+        "correct": false
+      },
+      {
+        "value": "Blue Guitar",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "How many interventions are done throughout the series?",
+    "choices": [
+      {
+        "value": "5",
+        "correct": false
+      },
+      {
+        "value": "2",
+        "correct": false
+      },
+      {
+        "value": "13",
+        "correct": true
+      },
+      {
+        "value": "11",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What is the Pub called that the gang frequent?",
+    "choices": [
+      {
+        "value": "McLeod's",
+        "correct": false
+      },
+      {
+        "value": "McLaren's",
+        "correct": true
+      },
+      {
+        "value": "McKay's",
+        "correct": false
+      },
+      {
+        "value": "McKenzie's",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "After losing a bet, what item does Barney have to wear for a year?",
+    "choices": [
+      {
+        "value": "A Santa Tie",
+        "correct": false
+      },
+      {
+        "value": "A Ducky Tie",
+        "correct": true
+      },
+      {
+        "value": "A Disney Tie",
+        "correct": false
+      },
+      {
+        "value": "A Doggy Tie",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "How old was Barney when he lost his Virginity?",
+    "choices": [
+      {
+        "value": "18",
+        "correct": false
+      },
+      {
+        "value": "19",
+        "correct": false
+      },
+      {
+        "value": "21",
+        "correct": false
+      },
+      {
+        "value": "23",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "label": "Who is Doctor X?",
+    "choices": [
+      {
+        "value": "Ted",
+        "correct": true
+      },
+      {
+        "value": "Barney",
+        "correct": false
+      },
+      {
+        "value": "Lily",
+        "correct": false
+      },
+      {
+        "value": "Marshall",
+        "correct": false
+      }
+    ]
+  }
+]
